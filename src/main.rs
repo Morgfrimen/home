@@ -1,7 +1,7 @@
 mod soket;
 mod thermometer;
 
-use crate::soket::soket::Soket;
+use crate::soket::Soket;
 use crate::thermometer::Thermometer;
 
 fn main() {
